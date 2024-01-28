@@ -9,3 +9,5 @@ W3 Mouse Draws Octagon: https://www.youtube.com/watch?v=mkNS18qrTq0
 W3 Monkey and banan: https://www.youtube.com/watch?v=XDEaadHUMcQ
 
 W4 Draw Shapes: https://www.youtube.com/watch?v=Vkgj2Q8QCqA
+
+W4 Teaching Starter PDF: https://docs.google.com/document/d/1rqJD25G6Ge2ESyb3L8lQBKTjkd8J8VYm8Z_VlLv6YSY/edit
