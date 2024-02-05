@@ -11,3 +11,5 @@ W3 Monkey and banan: https://www.youtube.com/watch?v=XDEaadHUMcQ
 W4 Draw Shapes: https://youtu.be/h9mEZuuoYrs
 
 W4 Teaching Starter PDF: https://docs.google.com/document/d/1rqJD25G6Ge2ESyb3L8lQBKTjkd8J8VYm8Z_VlLv6YSY/edit
+
+W6 Conditional Loop: https://youtu.be/3558vRYr0tI
