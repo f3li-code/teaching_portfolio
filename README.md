@@ -15,3 +15,5 @@ W4 Teaching Starter PDF: https://docs.google.com/document/d/1rqJD25G6Ge2ESyb3L8l
 W5 Conditional Loop: https://youtu.be/1bBy62MRYHM
 
 W6 if condition: https://youtu.be/OsIK-0Su1HM
+
+W7 Nested If-Else: https://youtu.be/7AeEdl1IOf4
