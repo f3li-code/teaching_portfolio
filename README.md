@@ -17,3 +17,5 @@ W5 Conditional Loop: https://youtu.be/1bBy62MRYHM
 W6 if condition: https://youtu.be/OsIK-0Su1HM
 
 W7 Nested If-Else: https://youtu.be/7AeEdl1IOf4
+
+W8 Compound conditional: https://youtu.be/wXY9VMvJCK8
